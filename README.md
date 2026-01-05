@@ -186,14 +186,7 @@ const abdullah = {
 </a>
 </p>
 
-<!-- Quote -->
-<br>
 
-```
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-```
-
-<!-- Support -->
 <p align="center">
 
 </p>
