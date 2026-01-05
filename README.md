@@ -31,7 +31,6 @@
 
 ```javascript
 const abdullah = {
-    pronouns: "He" | "Him",
     location: "Saudi Arabia 🇸🇦",
     degree: "BSc in Computer Science",
     experience: "3+ Years",
