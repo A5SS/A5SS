@@ -197,9 +197,7 @@ const abdullah = {
 
 <!-- Support -->
 <p align="center">
-<a href="https://www.buymeacoffee.com/abdullah" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50">
-</a>
+
 </p>
 
 </div>
