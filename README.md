@@ -126,9 +126,7 @@ const abdullah = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah&custom_title=Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=10B981&area_color=8B5CF6&area=true&hide_border=true" alt="Activity Graph"/>
 
 <!-- Trophies -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdullah&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
+
 
 </div>
 
