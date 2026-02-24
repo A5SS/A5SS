@@ -1,177 +1,55 @@
+# Abdullah Al-Omrani
 
-<div align="center">
+**Software Developer | Full-Stack Engineer | Problem Solver**
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Abdullah%20Al-Omrani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Software%20Developer%20|%20Full-Stack%20Engineer%20|%20Problem%20Solver&descAlignY=55&descSize=18" alt="Header" />
+---
 
-<!-- Animated Typing -->
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Building+Digital+Solutions;%F0%9F%8C%9F+3%2B+Years+of+Experience;%F0%9F%8E%AF+56%2B+Happy+Clients+Served" alt="Typing SVG" />
-</a>
-
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullah&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdullah?style=for-the-badge&color=06B6D4&labelColor=1a1b27" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-10B981?style=for-the-badge" alt="Focus" />
-</p>
-
-<!-- Animated Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- About Me Section -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code Gif" />
+I am a Software Developer with over 3 years of experience in building digital solutions and robust applications. I focus on creating scalable, clean, and efficient code to solve complex problems.
 
 ```javascript
 const abdullah = {
-  location: "Saudi Arabia 🇸🇦",
   degree: "BSc in Computer Science",
+  location: "Saudi Arabia",
   experience: "3+ Years",
-  clients: "56+ Happy Clients",
-
-  code: ["JavaScript", "TypeScript", "PHP", "Dart", "Swift", "Java"],
-
+  clientsServed: 56,
+  
+  coreLanguages: ["JavaScript", "TypeScript", "PHP", "Dart", "Swift", "Java"],
+  
   technologies: {
-    frontEnd: { js: ["React", "Next.js"], css: ["Tailwind", "Bootstrap"] },
-    backEnd: { php: ["Laravel"], js: ["Node.js", "NestJS"] },
+    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    backend: ["Laravel", "Node.js", "NestJS"],
     mobile: ["Flutter", "Swift"],
     databases: ["MySQL", "PostgreSQL"],
     devOps: ["Docker", "Git", "GitHub"]
   },
 
-  currentFocus: "Building Scalable Solutions",
-  funFact: "I turn ☕ into </code>"
+  currentFocus: "Architecting Scalable Systems",
+  philosophy: "Write code that is easy to read, maintain, and scale."
 };
 ```
 
-<br clear="both"/>
+### Technologies & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,swift,react,nextjs,tailwind,laravel,nodejs,nestjs,mysql,postgresql,flutter,docker,git,github,vscode,postman&perline=10&theme=dark" alt="Technologies" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### GitHub Analytics
+<p align="left">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullah&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=a0a0a0&icon_color=06B6D4&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullah&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=a0a0a0&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-<!-- Tech Stack -->
-<div align="center">
-  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal</h2>
-
-  <table width="100%">
-    <tr>
-      <td valign="top" width="33%" align="center">
-        <h3>🎨 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap&perline=4" alt="Frontend tools" />
-      </td>
-      <td valign="top" width="33%" align="center">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql,postgresql&perline=3" alt="Backend tools" />
-      </td>
-      <td valign="top" width="33%" align="center">
-        <h3>📱 Mobile & Tools</h3>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,androidstudio,docker,git&perline=3" alt="Mobile tools" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Animated Tech Icons -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman&theme=dark" alt="Other tools" />
-    </a>
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GitHub Stats -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics</h2>
-
-  <p align="center">
-    <a href="https://github.com/abdullah">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </a>
-  </p>
-
-  <!-- Streak Stats -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=10B981&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-  </p>
-
-  <!-- Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah&custom_title=Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=10B981&area_color=8B5CF6&area=true&hide_border=true" alt="Activity Graph" />
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Services Section -->
-<div align="center">
-  <h2>💼 What I Do</h2>
-
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-web-development-computer-science-flaticons-lineal-color-flat-icons.png" alt="Web Dev" /><br>
-        <b>Web Development</b><br>
-        <sub>Full-Stack Solutions</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-mobile-development-computer-science-flaticons-lineal-color-flat-icons.png" alt="Mobile App" /><br>
-        <b>Mobile Apps</b><br>
-        <sub>iOS & Android</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-computer-science-flaticons-lineal-color-flat-icons.png" alt="API" /><br>
-        <b>API Development</b><br>
-        <sub>RESTful Services</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-database-computer-science-flaticons-lineal-color-flat-icons.png" alt="Database" /><br>
-        <b>Database Design</b><br>
-        <sub>Optimized Schemas</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect</h2>
-
-  <p align="center">
-    <a href="https://s6.sa/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-s6.sa-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/abdullah-h-al-omrani-274112300/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contact@s6.sa" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://twitter.com/abdullah" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-  </p>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:8B5CF6&height=120&section=footer" alt="Footer" />
-  <br><br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-</div>
+### Get in Touch
+<p align="left">
+  <a href="https://s6.sa/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=8B5CF6" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-h-al-omrani-274112300/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@s6.sa">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=10B981" alt="Email" />
+  </a>
+</p>
