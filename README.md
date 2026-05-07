@@ -24,8 +24,8 @@ const abdullah = {
   },
 
   currentFocus: "Architecting Scalable Systems",
-  philosophy: "Write code that is easy to read, maintain, and scale."
-};
+
+  };
 ```
 
 ### Technologies & Tools
