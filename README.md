@@ -13,7 +13,7 @@ const abdullah = {
   experience: "3+ Years",
   clientsServed: 56,
   
-  coreLanguages: ["JavaScript", "TypeScript", "PHP", "Dart", "Swift", "Java"],
+  coreLanguages: ["Go", "JavaScript", "TypeScript", "PHP", "Dart", "Swift", "Java"],
   
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
