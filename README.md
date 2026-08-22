@@ -10,7 +10,7 @@ I am a Software Developer with over 3 years of experience in building digital so
 const abdullah = {
   degree: "BSc in Computer Science",
   location: "Saudi Arabia",
-  experience: "3+ Years",
+  experience: "4+ Years",
   clientsServed: 56,
   
   coreLanguages: ["Go", "JavaScript", "TypeScript", "PHP", "Dart", "Swift", "Java"],
