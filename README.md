@@ -1,6 +1,6 @@
 # Abdullah Al-Omrani
 
-**Software Developer | Full-Stack Engineer | Problem Solver**
+**Software Developer | Problem Solver**
 
 ---
 
